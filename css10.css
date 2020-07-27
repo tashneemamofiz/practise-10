@@ -1,0 +1,59 @@
+p{
+    box-sizing: border-box;
+box-shadow: 4px -3px 8px tomato;    background-color: aqua;
+    width: 150px;
+    overflow: auto;
+}
+
+
+
+#container .card1{
+    width: 330px;
+    box-sizing: border-box;
+    box-shadow: 4px -3px 8px tomato;
+    margin: 10px
+        
+    
+    
+}
+
+.img-style1:hover{
+    box-shadow: 4px -3px 8px blue;
+    
+}
+
+#container .img-style1{
+    width: 100%;
+}
+
+.extra-body{
+    background-color: aqua;
+}
+
+
+
+.title {
+    color:#fff;
+    /*font-size: 2rem; */
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+.title:hover{
+    box-shadow: 4px -3px 8px #14ff00;
+}
+
+
+.description {
+    color: #fff;
+    text-align: justify;
+    line-height: 16px;
+}
+
+.description:hover{
+    box-shadow: 4px -3px 8px orange;
+}
